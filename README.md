@@ -533,3 +533,5 @@ test is skipped when its configured executable is unavailable. Set
 Acknowledge 2Deku when using its diagrams and record the version or commit used.
 The ChimeraX integration is provided through CLIP!; attribution to that integration
 does not replace credit to the underlying analysis and rendering projects.
+
+© 2026 Structural Bioinformatics & Bioactive Compound Synthesis Lab - UFRO
