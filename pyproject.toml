@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "deku2d"
+version = "0.1.0"
+description = "Esquemas 2D de interacciones ligando-receptor (PLIP + RDKit + matplotlib) para artículos científicos"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["numpy", "matplotlib", "rdkit"]
+
+[project.scripts]
+deku2d = "deku2d.cli:main"
+
+[tool.setuptools]
+packages = ["deku2d"]
