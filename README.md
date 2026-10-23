@@ -1,6 +1,6 @@
 # 2Deku
 > 
-<img src="2deku_logo.png" alt="2deku" width="580">
+<img src="2deku_logo.png" alt="2deku" width="360">
 
 **Customizable 2D protein–ligand interaction diagrams from PLIP reports.**
 
