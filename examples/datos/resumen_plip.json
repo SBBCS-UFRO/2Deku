@@ -1,0 +1,848 @@
+{
+ "mol1": {
+  "docking": [
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL9",
+    "dist": 3.47,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLU62",
+    "dist": 3.59,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "MET72",
+    "dist": 3.92,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "TYR96",
+    "dist": 3.71,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLN99",
+    "dist": 3.54,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "ILE100",
+    "dist": 3.89,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL103",
+    "dist": 3.72,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL103",
+    "dist": 3.84,
+    "dador": null
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLY10",
+    "dist": 3.5,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "THR58",
+    "dist": 2.74,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU62",
+    "dist": 4.02,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU63",
+    "dist": 2.82,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ARG68",
+    "dist": 3.11,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.54,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ARG102",
+    "dist": 3.91,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "salt",
+    "residuo": "LYS16",
+    "dist": 4.94,
+    "dador": null
+   },
+   {
+    "tipo": "salt",
+    "residuo": "ARG68",
+    "dist": 4.5,
+    "dador": null
+   }
+  ],
+  "md_rep": [
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL9",
+    "dist": 3.76,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLU62",
+    "dist": 3.51,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "TYR64",
+    "dist": 3.99,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "ARG68",
+    "dist": 3.74,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLN99",
+    "dist": 3.78,
+    "dador": null
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU63",
+    "dist": 3.29,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "SER65",
+    "dist": 3.52,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.54,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.54,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ARG102",
+    "dist": 3.44,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "salt",
+    "residuo": "LYS16",
+    "dist": 5.49,
+    "dador": null
+   },
+   {
+    "tipo": "salt",
+    "residuo": "ARG68",
+    "dist": 3.48,
+    "dador": null
+   },
+   {
+    "tipo": "picat",
+    "residuo": "ARG102",
+    "dist": 4.36,
+    "dador": null
+   }
+  ]
+ },
+ "mol3": {
+  "docking": [
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL9",
+    "dist": 2.9,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "TYR64",
+    "dist": 4.0,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "MET72",
+    "dist": 3.77,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "TYR96",
+    "dist": 4.0,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLN99",
+    "dist": 3.45,
+    "dador": null
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP12",
+    "dist": 2.85,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "THR58",
+    "dist": 2.88,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU63",
+    "dist": 2.58,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU63",
+    "dist": 3.98,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ARG68",
+    "dist": 2.7,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ARG68",
+    "dist": 3.63,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.54,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.54,
+    "dador": "ligando"
+   }
+  ],
+  "md_rep": [
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL9",
+    "dist": 3.57,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "MET72",
+    "dist": 3.94,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLN99",
+    "dist": 3.63,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "ILE100",
+    "dist": 3.84,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL103",
+    "dist": 3.84,
+    "dador": null
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "LYS16",
+    "dist": 4.07,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "THR58",
+    "dist": 2.82,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU62",
+    "dist": 2.55,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU63",
+    "dist": 3.07,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU63",
+    "dist": 3.03,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.49,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.49,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ARG102",
+    "dist": 4.06,
+    "dador": "proteína"
+   }
+  ]
+ },
+ "mol8": {
+  "docking": [
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL9",
+    "dist": 2.82,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLU62",
+    "dist": 3.79,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "MET72",
+    "dist": 3.96,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "TYR96",
+    "dist": 3.37,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLN99",
+    "dist": 3.35,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "ILE100",
+    "dist": 3.39,
+    "dador": null
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLY10",
+    "dist": 3.09,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU63",
+    "dist": 2.78,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU63",
+    "dist": 3.48,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ARG68",
+    "dist": 3.58,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ARG68",
+    "dist": 2.74,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.48,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.48,
+    "dador": "ligando"
+   }
+  ],
+  "md_rep": [
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL9",
+    "dist": 3.69,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "MET72",
+    "dist": 3.87,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLN99",
+    "dist": 3.7,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "ILE100",
+    "dist": 3.9,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL103",
+    "dist": 3.82,
+    "dador": null
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLY10",
+    "dist": 2.99,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU62",
+    "dist": 3.54,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU62",
+    "dist": 3.54,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU63",
+    "dist": 3.42,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU63",
+    "dist": 2.67,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "SER65",
+    "dist": 3.07,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ARG68",
+    "dist": 2.88,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.69,
+    "dador": "ligando"
+   }
+  ]
+ },
+ "mol31": {
+  "docking": [
+   {
+    "tipo": "hydrophobic",
+    "residuo": "MET72",
+    "dist": 3.66,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "TYR96",
+    "dist": 3.55,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "TYR96",
+    "dist": 3.63,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLN99",
+    "dist": 3.75,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLN99",
+    "dist": 3.93,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "ILE100",
+    "dist": 3.11,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL103",
+    "dist": 3.8,
+    "dador": null
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP12",
+    "dist": 3.34,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "THR58",
+    "dist": 2.91,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "THR58",
+    "dist": 2.73,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ARG68",
+    "dist": 3.2,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ARG68",
+    "dist": 3.12,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.96,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "TYR96",
+    "dist": 3.21,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "pipi",
+    "residuo": "TYR96",
+    "dist": 4.89,
+    "dador": null
+   }
+  ],
+  "md_rep": [
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL9",
+    "dist": 3.86,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLU62",
+    "dist": 4.0,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "TYR64",
+    "dist": 3.55,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLN99",
+    "dist": 3.74,
+    "dador": null
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU63",
+    "dist": 3.2,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLU63",
+    "dist": 3.18,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.62,
+    "dador": "ligando"
+   }
+  ]
+ },
+ "MRTX1133": {
+  "docking": [
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL9",
+    "dist": 3.84,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "TYR64",
+    "dist": 3.65,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "ARG68",
+    "dist": 3.93,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "MET72",
+    "dist": 3.72,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "TYR96",
+    "dist": 3.64,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "TYR96",
+    "dist": 3.22,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLN99",
+    "dist": 3.64,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "ILE100",
+    "dist": 3.35,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL103",
+    "dist": 3.87,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "VAL103",
+    "dist": 3.73,
+    "dador": null
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "GLY60",
+    "dist": 2.64,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "TYR64",
+    "dist": 4.06,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ARG68",
+    "dist": 3.39,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.4,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "TYR96",
+    "dist": 3.4,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ARG102",
+    "dist": 3.82,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "salt",
+    "residuo": "GLU62",
+    "dist": 5.4,
+    "dador": null
+   },
+   {
+    "tipo": "salt",
+    "residuo": "GLU62",
+    "dist": 2.59,
+    "dador": null
+   }
+  ],
+  "md_rep": [
+   {
+    "tipo": "hydrophobic",
+    "residuo": "THR58",
+    "dist": 3.63,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "TYR64",
+    "dist": 3.59,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "ARG68",
+    "dist": 3.88,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "MET72",
+    "dist": 3.74,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "TYR96",
+    "dist": 3.26,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "TYR96",
+    "dist": 3.73,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "GLN99",
+    "dist": 3.84,
+    "dador": null
+   },
+   {
+    "tipo": "hydrophobic",
+    "residuo": "ILE100",
+    "dist": 3.57,
+    "dador": null
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP12",
+    "dist": 2.91,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.6,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ASP69",
+    "dist": 2.6,
+    "dador": "ligando"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "HIS95",
+    "dist": 2.86,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "hbond",
+    "residuo": "ARG102",
+    "dist": 3.22,
+    "dador": "proteína"
+   },
+   {
+    "tipo": "salt",
+    "residuo": "GLU62",
+    "dist": 2.86,
+    "dador": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "mol1": {
+  "smiles": "O=C([O-])[C@@H]1C[C@@H]2CC=C[C@H](c3cc(O)[nH]c3-c3cnc4ccccc4n3)[C@H]2C1",
+  "fuente": "manuscrito/scripts/plip_2d.py (dict SMILES)",
+  "formula": "C22H20N3O3-",
+  "carga_formal": -1,
+  "atomos_pesados": 28
+ },
+ "mol3": {
+  "smiles": "OCc1[nH]c(O)cc1[C@@H]1C=CC[C@@H]2C[C@H](Sc3ncnc4[nH]cnc34)C[C@H]21",
+  "fuente": "manuscrito/scripts/plip_2d.py (dict SMILES)",
+  "formula": "C19H21N5O2S",
+  "carga_formal": 0,
+  "atomos_pesados": 27
+ },
+ "mol8": {
+  "smiles": "N=Cc1[nH]c(O)cc1[C@@H]1C=CC[C@@H]2C[C@H](Cn3c(O)c4c(c3O)[C@@H]3CC[C@H]4O3)C[C@H]21",
+  "fuente": "manuscrito/scripts/plip_2d.py (dict SMILES)",
+  "formula": "C23H27N3O4",
+  "carga_formal": 0,
+  "atomos_pesados": 30
+ },
+ "mol31": {
+  "smiles": "C[C@H](C(=O)[C@@H](O)c1ncnc2[nH]cnc12)c1cccc2c1[NH+]=CNC2",
+  "fuente": "manuscrito/scripts/plip_2d.py (dict SMILES)",
+  "notas": "Ligando simulado (carga +1, sin S): NO coincide con la molécula n.º 31 de la tabla de las 50 mejores (C16H14N6O2S); misma constitución plana que las moléculas 18, 24, 33, 39 y 41.",
+  "formula": "C17H17N6O2+",
+  "carga_formal": 1,
+  "atomos_pesados": 25
+ },
+ "MRTX1133": {
+  "smiles": "C#Cc1c(F)ccc2cc(O)cc(-c3ncc4c(N5C[C@H]6CC[C@@H](C5)[NH2+]6)nc(OC[C@@]56CCC[N@@H+]5C[C@H](F)C6)nc4c3F)c12",
+  "fuente": "KRAS/g12d/mrtx1133/redock/fred_docked.sdf (pose de FRED, mismo SMILES que t155_lig.sdf de la MD)",
+  "notas": "Protonación de la simulación: +2 (dos aminas protonadas).",
+  "formula": "C33H33F3N6O2+2",
+  "carga_formal": 2,
+  "atomos_pesados": 44
+ }
+}

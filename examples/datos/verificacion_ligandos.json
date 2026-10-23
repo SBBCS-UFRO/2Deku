@@ -1,0 +1,270 @@
+[
+ {
+  "sistema": "mol1",
+  "estructura": "docking",
+  "pdb": "docking/mol1/complejo_origen.pdb",
+  "resname": "UNK",
+  "hetatm_total": 48,
+  "pesados_pdb": 28,
+  "H_pdb": 20,
+  "pesados_smiles": 28,
+  "H_smiles": 20,
+  "elementos_pdb": {
+   "C": 22,
+   "N": 3,
+   "O": 3
+  },
+  "elementos_smiles": {
+   "O": 3,
+   "C": 22,
+   "N": 3
+  },
+  "pesados_ok": true,
+  "elementos_ok": true,
+  "H_ok": true,
+  "bond_orders_ok": true,
+  "formula_asignada": "C22H20N3O3-"
+ },
+ {
+  "sistema": "mol1",
+  "estructura": "md_rep",
+  "pdb": "md_rep/mol1/frame_rep.pdb",
+  "resname": "UNK",
+  "hetatm_total": 48,
+  "pesados_pdb": 28,
+  "H_pdb": 20,
+  "pesados_smiles": 28,
+  "H_smiles": 20,
+  "elementos_pdb": {
+   "C": 22,
+   "N": 3,
+   "O": 3
+  },
+  "elementos_smiles": {
+   "O": 3,
+   "C": 22,
+   "N": 3
+  },
+  "pesados_ok": true,
+  "elementos_ok": true,
+  "H_ok": true,
+  "bond_orders_ok": true,
+  "formula_asignada": "C22H20N3O3-"
+ },
+ {
+  "sistema": "mol3",
+  "estructura": "docking",
+  "pdb": "docking/mol3/complejo_origen.pdb",
+  "resname": "UNK",
+  "hetatm_total": 48,
+  "pesados_pdb": 27,
+  "H_pdb": 21,
+  "pesados_smiles": 27,
+  "H_smiles": 21,
+  "elementos_pdb": {
+   "C": 19,
+   "N": 5,
+   "O": 2,
+   "S": 1
+  },
+  "elementos_smiles": {
+   "O": 2,
+   "C": 19,
+   "N": 5,
+   "S": 1
+  },
+  "pesados_ok": true,
+  "elementos_ok": true,
+  "H_ok": true,
+  "bond_orders_ok": true,
+  "formula_asignada": "C19H21N5O2S"
+ },
+ {
+  "sistema": "mol3",
+  "estructura": "md_rep",
+  "pdb": "md_rep/mol3/frame_rep.pdb",
+  "resname": "UNK",
+  "hetatm_total": 48,
+  "pesados_pdb": 27,
+  "H_pdb": 21,
+  "pesados_smiles": 27,
+  "H_smiles": 21,
+  "elementos_pdb": {
+   "C": 19,
+   "N": 5,
+   "O": 2,
+   "S": 1
+  },
+  "elementos_smiles": {
+   "O": 2,
+   "C": 19,
+   "N": 5,
+   "S": 1
+  },
+  "pesados_ok": true,
+  "elementos_ok": true,
+  "H_ok": true,
+  "bond_orders_ok": true,
+  "formula_asignada": "C19H21N5O2S"
+ },
+ {
+  "sistema": "mol8",
+  "estructura": "docking",
+  "pdb": "docking/mol8/complejo_origen.pdb",
+  "resname": "UNK",
+  "hetatm_total": 57,
+  "pesados_pdb": 30,
+  "H_pdb": 27,
+  "pesados_smiles": 30,
+  "H_smiles": 27,
+  "elementos_pdb": {
+   "C": 23,
+   "N": 3,
+   "O": 4
+  },
+  "elementos_smiles": {
+   "N": 3,
+   "C": 23,
+   "O": 4
+  },
+  "pesados_ok": true,
+  "elementos_ok": true,
+  "H_ok": true,
+  "bond_orders_ok": true,
+  "formula_asignada": "C23H27N3O4"
+ },
+ {
+  "sistema": "mol8",
+  "estructura": "md_rep",
+  "pdb": "md_rep/mol8/frame_rep.pdb",
+  "resname": "UNK",
+  "hetatm_total": 57,
+  "pesados_pdb": 30,
+  "H_pdb": 27,
+  "pesados_smiles": 30,
+  "H_smiles": 27,
+  "elementos_pdb": {
+   "C": 23,
+   "N": 3,
+   "O": 4
+  },
+  "elementos_smiles": {
+   "N": 3,
+   "C": 23,
+   "O": 4
+  },
+  "pesados_ok": true,
+  "elementos_ok": true,
+  "H_ok": true,
+  "bond_orders_ok": true,
+  "formula_asignada": "C23H27N3O4"
+ },
+ {
+  "sistema": "mol31",
+  "estructura": "docking",
+  "pdb": "docking/mol31/complejo_origen.pdb",
+  "resname": "UNK",
+  "hetatm_total": 42,
+  "pesados_pdb": 25,
+  "H_pdb": 17,
+  "pesados_smiles": 25,
+  "H_smiles": 17,
+  "elementos_pdb": {
+   "C": 17,
+   "N": 6,
+   "O": 2
+  },
+  "elementos_smiles": {
+   "C": 17,
+   "O": 2,
+   "N": 6
+  },
+  "pesados_ok": true,
+  "elementos_ok": true,
+  "H_ok": true,
+  "bond_orders_ok": true,
+  "formula_asignada": "C17H17N6O2+"
+ },
+ {
+  "sistema": "mol31",
+  "estructura": "md_rep",
+  "pdb": "md_rep/mol31/frame_rep.pdb",
+  "resname": "UNK",
+  "hetatm_total": 42,
+  "pesados_pdb": 25,
+  "H_pdb": 17,
+  "pesados_smiles": 25,
+  "H_smiles": 17,
+  "elementos_pdb": {
+   "C": 17,
+   "N": 6,
+   "O": 2
+  },
+  "elementos_smiles": {
+   "C": 17,
+   "O": 2,
+   "N": 6
+  },
+  "pesados_ok": true,
+  "elementos_ok": true,
+  "H_ok": true,
+  "bond_orders_ok": true,
+  "formula_asignada": "C17H17N6O2+"
+ },
+ {
+  "sistema": "MRTX1133",
+  "estructura": "docking",
+  "pdb": "docking/MRTX1133/complejo_origen.pdb",
+  "resname": "6IC",
+  "hetatm_total": 44,
+  "pesados_pdb": 44,
+  "H_pdb": 0,
+  "pesados_smiles": 44,
+  "H_smiles": 33,
+  "elementos_pdb": {
+   "C": 33,
+   "N": 6,
+   "O": 2,
+   "F": 3
+  },
+  "elementos_smiles": {
+   "C": 33,
+   "F": 3,
+   "O": 2,
+   "N": 6
+  },
+  "pesados_ok": true,
+  "elementos_ok": true,
+  "H_ok": null,
+  "bond_orders_ok": true,
+  "formula_asignada": "C33H33F3N6O2+2"
+ },
+ {
+  "sistema": "MRTX1133",
+  "estructura": "md_rep",
+  "pdb": "md_rep/MRTX1133/frame_rep.pdb",
+  "resname": "6IC",
+  "hetatm_total": 77,
+  "pesados_pdb": 44,
+  "H_pdb": 33,
+  "pesados_smiles": 44,
+  "H_smiles": 33,
+  "elementos_pdb": {
+   "C": 33,
+   "F": 3,
+   "N": 6,
+   "O": 2
+  },
+  "elementos_smiles": {
+   "C": 33,
+   "F": 3,
+   "O": 2,
+   "N": 6
+  },
+  "pesados_ok": true,
+  "elementos_ok": true,
+  "H_ok": true,
+  "bond_orders_ok": true,
+  "formula_asignada": "C33H33F3N6O2+2"
+ }
+]
